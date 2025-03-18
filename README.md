@@ -27,7 +27,11 @@ pip install submodules/cubemapencoder
 pip install submodules/diff-gaussian-rasterization_c3
 pip install submodules/diff-gaussian-rasterization_c7
 pip install submodules/simple-knn
+pip install kornia
+pip install open3d
 ```
+
+
 `diff-gaussian-rasterization_c3` and `simple-knn` are identical to the vanilla 3DGS. You can skip them if you have installed them. You just need to replace `diff-gaussian-rasterization_c3` with `diff-gaussian-rasterization` if you have installed it.
 
 ## Datasets
